@@ -1,0 +1,22 @@
+# Ignore Python cache files if you use Python
+__pycache__/
+*.py[cod]
+
+# Ignore compiled Java classes
+*.class
+
+# Ignore Node.js-related files if you experiment with JavaScript/TypeScript
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignore language-specific settings
+*.log
+*.out
+*.o
+*.swp
+*.DS_Store
+
+# Ignore system files
+Thumbs.db
+.env
