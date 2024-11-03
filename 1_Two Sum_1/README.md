@@ -1,6 +1,6 @@
 # 1. Two Sum
 
-![Problem Statement](twoSum_desc.png)
+You can refer to the problem statement [here](https://leetcode.com/problems/two-sum/).
 
 ## Explanation of My Solution
 
