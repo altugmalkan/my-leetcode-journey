@@ -40,4 +40,4 @@ In this solution, we use two pointers, `R` (right pointer) and `L` (left pointer
 By following this approach, we can efficiently remove the target element from th
 
 **Time Complexity**: O(n)  
-**Space Complexity**: O(1)
+**Space Complexity**: O(1).
