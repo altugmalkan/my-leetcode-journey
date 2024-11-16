@@ -28,7 +28,7 @@ The array is sorted first, and then we check for duplicates by comparing consecu
 **Explanation**:
 A list is used to store seen elements, and we check if an element is already in the list.
 
-**Time Complexity**: O(n^2)  
+**Time Complexity**: O(n)  
 **Space Complexity**: O(n)
 
 ---
