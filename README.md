@@ -15,7 +15,7 @@ The primary goal of this repository is to:
 Each solution is stored in a separate folder with the format:
 
 - **/[DayNumber]_[Problem-Name]_[Problem-ID]/**
-  - `Solution.py`
+  - `Solution.py` or `Program.cs` 
   - `README.md` (Description and approach)
 
 ## 💻 Language
